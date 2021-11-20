@@ -64,7 +64,7 @@ hr{
     padding-bottom: 30px;
 }
 .topics-left a{
-    text-decoration: arial;
+    text-decoration: underline;
     color: black;
 }
 /*-------------------------Right-----------*/
