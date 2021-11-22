@@ -23,13 +23,13 @@ nav{
     cursor: pointer;
 }
 span{
-color: rgb(255, 0, 0);
+color: red;
  border-style: solid;
  background-color: red;
  border-radius: 10px;
 }
 a,p{
-    color: #1E285F;
+    color:red;
     
 }
 hr{
